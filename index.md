@@ -7,7 +7,7 @@ title: Jian Li
     <div class="row-fluid">
         <div class="span2">
         <a href="assets/Yuchen.jpg">
-            <img src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
+            <img src="assets/Yuchen.jpg" height="210" width="150" title="Jian Li" alt="Jian Li"/>
         </a>
         </div>
     </div>
